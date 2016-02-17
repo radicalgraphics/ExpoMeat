@@ -1,0 +1,14 @@
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\EE4WebCam\obj\x86\Release\EE4WebCam.csprojResolveAssemblyReference.cache
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\EE4WebCam\obj\x86\Release\EE4Test.frmEE4WebCam.resources
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\EE4WebCam\obj\x86\Release\EE4WebCam.Properties.Resources.resources
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\EE4WebCam\obj\x86\Release\EE4WebCam.csproj.GenerateResource.Cache
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\EE4WebCam\bin\Release\EE4WebCam.exe
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\EE4WebCam\bin\Release\EE4WebCam.pdb
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\EE4WebCam\bin\Release\Microsoft.Expression.Encoder.dll
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\EE4WebCam\bin\Release\Microsoft.Expression.Encoder.Types.dll
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\EE4WebCam\bin\Release\Microsoft.Expression.Encoder.Utilities.dll
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\EE4WebCam\bin\Release\Microsoft.Expression.Encoder.xml
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\EE4WebCam\bin\Release\Microsoft.Expression.Encoder.Types.xml
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\EE4WebCam\bin\Release\Microsoft.Expression.Encoder.Utilities.xml
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\EE4WebCam\obj\x86\Release\EE4WebCam.exe
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\EE4WebCam\obj\x86\Release\EE4WebCam.pdb

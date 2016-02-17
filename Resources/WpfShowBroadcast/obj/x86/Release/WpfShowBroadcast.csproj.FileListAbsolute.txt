@@ -1,0 +1,12 @@
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\WpfShowBroadcast\bin\Release\WpfShowBroadcast.exe
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\WpfShowBroadcast\bin\Release\WpfShowBroadcast.pdb
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\WpfShowBroadcast\obj\x86\Release\WpfShowBroadcast.csprojResolveAssemblyReference.cache
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\WpfShowBroadcast\obj\x86\Release\MainWindow.baml
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\WpfShowBroadcast\obj\x86\Release\MainWindow.g.cs
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\WpfShowBroadcast\obj\x86\Release\App.g.cs
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\WpfShowBroadcast\obj\x86\Release\WpfShowBroadcast_MarkupCompile.cache
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\WpfShowBroadcast\obj\x86\Release\WpfShowBroadcast.g.resources
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\WpfShowBroadcast\obj\x86\Release\WpfShowBroadcast.Properties.Resources.resources
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\WpfShowBroadcast\obj\x86\Release\WpfShowBroadcast.csproj.GenerateResource.Cache
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\WpfShowBroadcast\obj\x86\Release\WpfShowBroadcast.exe
+D:\Radical Graphics Storage\Expo Meat Project\Webcam program c#\WpfShowBroadcast\obj\x86\Release\WpfShowBroadcast.pdb
